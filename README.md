@@ -13,6 +13,5 @@ All demos in this repo were written by SwiftUI. The only purpose of this repo I 
 * Xcode 15.0
 * Swift 5.9
 * iOS 17.0
-* watchOS 10.0
 * macOS 13.6 Ventura
 
