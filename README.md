@@ -1,7 +1,9 @@
 # SwipeToHideNavBar
 How to hide the native SwiftUI navigation bar when scrolled.
 
-<img src="https://github.com/hackenbacker/image-host/blob/main/imgs/SwipeToHideNavBar/SwipeToHideNavBar-256.gif">
+| <img src="https://github.com/hackenbacker/image-host/blob/main/imgs/SwipeToHideNavBar/SwipeToHideNavBar-256.gif"> | <img width="256" src="SwipeToHideNavBar/Assets.xcassets/AppIcon.appiconset/AppIcon.png"> |
+|---|---|
+
 
 ## Introduction
 
